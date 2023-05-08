@@ -18,6 +18,8 @@ Esercizi di Grafica in movimento (2023)
 [Parole](Esercizio_2A/index.html)<br>
 
 ## Esercizio 2B
+[Animazione](Esercizio_2B/index.html)<br>
+
 
 ## Esercizio 3
 [Disegno](Esercizio_3/1_disegno/index.html)<br>
