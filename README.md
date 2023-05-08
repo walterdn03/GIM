@@ -2,8 +2,8 @@
 Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 1a
-[acceso sento 2 frame](Esercizio_1A/template/acceso_spento_2.html)<br>
-[acceso sento 2 frame](Esercizio_1A/template/acceso_spento_2.html)<br>
+<!--[acceso sento 2 frame](Esercizio_1A/template/acceso_spento_2.html)<br>
+[acceso sento 2 frame](Esercizio_1A/template/acceso_spento_2.html)<br>-->
 [aperto chiuso 2 frame](Esercizio_1A/template/aperto_chiuso_2.html)<br>
 [aperto chiuso 3 frame](Esercizio_1A/template/aperto_chiuso_3.html)<br>
 [rotazione 2 frame](Esercizio_1A/template/rotazione_2.html)<br>
