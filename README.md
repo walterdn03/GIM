@@ -12,6 +12,7 @@ Esercizi di Grafica in movimento (2023)
 [spostamento 3 frame](Esercizio_1A/spostamento_3.html)<br>
 
 ## Esercizio 1B
+[dittico](Esercizio_1B/indexL.html)<br>
 
 ## Esercizio 2A
 ## Esercizio 2B
