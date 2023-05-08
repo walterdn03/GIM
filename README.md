@@ -19,6 +19,8 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 2B
 [Animazione](Esercizio_2B/index.html)<br>
+[Animazione 2](Esercizio_2B/seconda_animazione.html)<br>
+
 
 
 ## Esercizio 3
