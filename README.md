@@ -29,7 +29,7 @@ Esercizi di Grafica in movimento (2023)
 [Neve](Esercizio_3/3_neve/index.html)<br>
 
 ## Esercizio 4
-[Disegno](Esercizio_4/1_orologio_analogico/index.html)<br>
+[Orologio Analogico](Esercizio_4/1_orologio_analogico/index.html)<br>
 
 
 
