@@ -18,8 +18,11 @@ Esercizi di Grafica in movimento (2023)
 [Forma e senso](Esercizio_2A/index.html)<br>
 
 ## Esercizio 2B
-[Animazione](Esercizio_2B/index.html)<br>
-[Animazione 2](Esercizio_2B/seconda_animazione.html)<br>
+[Animazione Design](Esercizio_2B/index.html)<br>
+[Animazione Depressione V1](Esercizio_2B/seconda_animazione.html)<br>
+[Animazione Depressione Animazione](Esercizio_2B/terza_animazione.html)<br>
+[Animazione Depressione Campagna](Esercizio_2B/quarta_animazione.html)<br>
+
 
 
 
