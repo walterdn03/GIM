@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Davide Torre" />
+	<title>Forma e senso</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+		}
+		canvas{
+      width: 400px !important;
+      height: 400px !important;
+			position:absolute;
+			left:50%;
+			top:50%;
+			margin-left: -200px;
+			margin-top: -200px;
+		}
+	</style>
+</head>
+<body>
+	<script type="module">
+
+		import Sequencer from './js/sequencer.min.js';
+
+		Sequencer.make({
+			from         	 : "img/terza_animazione/IMG_00001.png",
+			to           	 : "img/terza_animazione/IMG_00146.png",
+			playMode     	 : "auto",
+			loop         	 : "loop", // "pong"
+			interval     	 : 68,
+		})
+	</script>
+</body>
+</html>
