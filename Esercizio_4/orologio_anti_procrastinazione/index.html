@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Orologio Anti-Procrastinazione</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Orologio Anti-Procrastinazione</h1>
+
+  <div class="container-main">
+    <img class="image" src="orologio.png">
+  
+    <div class="container-clock">
+      <div class="container-data">
+        <div id="clock"></div>
+        <div id="wasted-time"></div>
+        <div id="remaining-time"></div>
+
+        <div id="input-group-social" class="input-group">
+          <label for="social-hours">Quante ore hai usato i social?</label><br>
+          <input type="number" id="social-hours" placeholder="Inserisci ore">
+        </div>
+
+        <div id="input-group-break" class="input-group">
+          <label for="break-hours">Quante ore di pausa hai fatto?</label><br>
+          <input type="number" id="break-hours" placeholder="Inserisci ore">
+        </div>
+
+        <button id="calculate-btn" onclick="calculate()">Calcola</button>
+      </div>
+    </div>
+  </div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+
+@font-face {
+    font-family: "San Francisco";
+    font-weight: 400;
+    src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  }
+  
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+        text-align: center !important;
+        background-color: #4f4d4d !important;
+      }
+  
+      h1 {
+        color: white;
+      }
+      
+      #clock {
+        font-size: 48px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+  
+      #wasted-time {
+        font-size: 28px;
+        margin-bottom: 10px;
+        color: red;
+        font-weight: 750;
+      }
+  
+      #remaining-time {
+        font-size: 24px;
+        font-weight: 200;
+        margin-bottom: 10px;
+      }
+  
+      .container-main {
+        position: relative;
+        display: inline-block;
+      }
+  
+      .image {
+        width: 700px;
+        z-index: ;
+      }
+  
+      .container-clock {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: white;
+        width: 222px;
+        margin: 0;
+        background-color: #050505;
+        padding-left: 20px;
+        padding-right:29px;
+        height: 320px;
+        border-radius: 23%;
+        -webkit-box-shadow: 5px 4px 20px 0px #000000;
+        -moz-box-shadow: 5px 4px 20px 0px #000000;
+        -o-box-shadow: 5px 4px 20px 0px #000000;
+        box-shadow: 5px 4px 202px 0px #000000;
+        z-index: 10;
+      }
+  
+      .container-data {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+  
+      .input-group {
+        margin-bottom: 10px;
+      }
+  
+      input {
+        margin-top: 8px;
+        margin-bottom: 10px;
+        border-radius: 8px;
+        height: 30px;
+        width: 100%;
+        border-style: solid;
+        border-color: white;
+        box-shadow: 2px 1px 12px 0px #464646;
+      }
+  
+   
+  
+      button {
+        font-weight: bold;
+        margin-top: 7px;
+        margin-bottom: 12px;
+        border-radius: 8px;
+        height: 30px;
+        width: 50%;
+        border-style: none;
+        border-color: white;
+        color: white;
+        background-color: #4f4d4d;
+      }
+  
+      button:hover {
+        background-color: #464646;
+      }

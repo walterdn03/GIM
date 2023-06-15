@@ -1,0 +1,28 @@
+.main {
+    text-align: center !important;
+    vertical-align: center;
+  }
+
+  .container-grafico {
+    margin-top: 30px;
+    text-align: center !important;
+    max-height: 400px;
+  }
+
+  #grafico {
+    display: inline !important;
+  }
+
+  .container-label {
+    margin-top: 30px;
+  }
+
+  #wastedMessage {
+    margin-top: 0px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  h1 {
+    font-weight: bold !important;
+  }
