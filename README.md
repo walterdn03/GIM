@@ -2,8 +2,8 @@
 Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 1A
-<!--[acceso sento 2 frame](Esercizio_1A/acceso_spento_2.html)<br>
-[acceso sento 2 frame](Esercizio_1A/acceso_spento_2.html)<br>-->
+[acceso spento 2 frame](Esercizio_1A/acceso_spento_2.html)<br>
+[acceso spento 3 frame](Esercizio_1A/acceso_spento_3.html)<br>
 [aperto chiuso 2 frame](Esercizio_1A/aperto_chiuso_2.html)<br>
 [aperto chiuso 3 frame](Esercizio_1A/aperto_chiuso_3.html)<br>
 [rotazione 2 frame](Esercizio_1A/rotazione_2.html)<br>
@@ -33,6 +33,11 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 4
 [Orologio Analogico](Esercizio_4/1_orologio_analogico/index.html)<br>
+[Orologio Digitale](Esercizio_4/1_orologio_digitale/index.html)<br>
+[Orologio Analogico](Esercizio_4/orologio_calcolo_tempo/index.html)<br>
+[Orologio Calcolo Tempo](Esercizio_4/orologio_calcolo_tempo_2/index.html)<br>
+[Orologio Anti Procrastinazione](Esercizio_4/orologio_anti_procrastinazione/index.html)<br>
+
 
 
 
