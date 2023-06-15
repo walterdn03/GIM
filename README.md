@@ -29,13 +29,14 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 3
 [Disegno](Esercizio_3/1_disegno/index.html)<br>
 [Pong](Esercizio_3/2_pong/index.html)<br>
+[Pong Nuovo](Esercizio_3/2_pong_nuovo/index.html)<br>
 [Neve](Esercizio_3/3_neve/index.html)<br>
 
 ## Esercizio 4
 [Orologio Analogico](Esercizio_4/1_orologio_analogico/index.html)<br>
 [Orologio Digitale](Esercizio_4/1_orologio_digitale/index.html)<br>
-[Orologio Analogico](Esercizio_4/orologio_calcolo_tempo/index.html)<br>
-[Orologio Calcolo Tempo](Esercizio_4/orologio_calcolo_tempo_2/index.html)<br>
+[Orologio Calcolo Tempo](Esercizio_4/calcolo_tempo/index.html)<br>
+[Orologio Calcolo Tempo 2](Esercizio_4/calcolo_tempo_2/index.html)<br>
 [Orologio Anti Procrastinazione](Esercizio_4/orologio_anti_procrastinazione/index.html)<br>
 
 
