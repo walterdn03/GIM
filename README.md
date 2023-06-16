@@ -39,8 +39,8 @@ Esercizi di Grafica in movimento (2023)
 <h3>Calcolatore tempo sprecato</h3>
 <p>Calcola quanto tempo hai sprecato sui social nella tua vita.</p>
 
-[Orologio Calcolo Tempo](Esercizio_4/calcolo_tempo/index.html)<br>
-[Orologio Calcolo Tempo 2](Esercizio_4/calcolo_tempo_2/index.html)<br>
+[Calcolo Tempo](Esercizio_4/calcolo_tempo/index.html)<br>
+[Calcolo Tempo 2](Esercizio_4/calcolo_tempo_2/index.html)<br>
 
 <h3>Orologio Anti Procrastinazione</h3>
 <p>L'orologio per chi vuole smettere di procrastinare, tenendo traccia del tempo sprecato in un giorno!</p>
