@@ -35,11 +35,13 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 4
 [Orologio Analogico](Esercizio_4/1_orologio_analogico/index.html)<br>
 [Orologio Digitale](Esercizio_4/1_orologio_digitale/index.html)<br>
-<hr>
+
+<h2>Calcolatore tempo sprecato</h2>
 [Orologio Calcolo Tempo](Esercizio_4/calcolo_tempo/index.html)<br>
 [Orologio Calcolo Tempo 2](Esercizio_4/calcolo_tempo_2/index.html)<br>
 <p>Calcola quanto tempo hai sprecato sui social nella tua vita.</p>
-<hr>
+
+<h2>Orologio Anti Procrastinazione</h2>
 [Orologio Anti Procrastinazione](Esercizio_4/orologio_anti_procrastinazione/index.html)<br>
 <p>L'orologio per chi vuole smettere di procrastinare, tenendo traccia del tempo sprecato in un giorno!</p>
 
