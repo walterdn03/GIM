@@ -19,7 +19,7 @@ function calcolaVitaSprecata() {
   var minutes = Math.floor((totalHours - hours) * 60);
 
   // Mostra il totale delle ore sprecate in un anno nel formato ore e minuti
-  var wastedTimeMessage = "Hai sprecato " + hours + " ore";
+  var wastedTimeMessage = "In un'anno hai sprecato " + hours + " ore";
   if (minutes > 0) {
     wastedTimeMessage += " e " + minutes + " minuti";
   }
