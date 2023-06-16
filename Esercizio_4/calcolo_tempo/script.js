@@ -19,7 +19,7 @@ function calcolaVitaSprecata() {
   var minutes = Math.floor((totalHours - hours) * 60);
 
   // Mostra il totale delle ore sprecate in un anno nel formato ore e minuti
-  var wastedTimeMessage = "In un'anno hai sprecato " + hours + " ore";
+  var wastedTimeMessage = "Ogni anno sprechi " + hours + " ore";
   if (minutes > 0) {
     wastedTimeMessage += " e " + minutes + " minuti";
   }
@@ -33,7 +33,7 @@ function calcolaVitaSprecata() {
   var wastedPercentage = (totalHoursWithUsage / (80 * 365 * 24)) * 100;
 
   // Mostra il messaggio con la percentuale di vita sprecata
-  var wastedMessage = "Hai utilizzato il " + wastedPercentage.toFixed(2) + "% della tua vita per usare TikTok, Instagram e Netflix";
+  var wastedMessage = "Hai passato il " + wastedPercentage.toFixed(2) + "% della tua vita su TikTok, Instagram e Netflix";
   document.getElementById('wastedMessage').textContent = wastedMessage;
 
   // Resto del codice...

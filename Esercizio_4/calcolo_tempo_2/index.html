@@ -36,9 +36,20 @@
       <button type="button" class="btn btn-primary" onclick="calcolaVitaSprecata()">Calcola</button>
       <button type="button" class="btn btn-primary" onclick="resetta()">Resetta</button>
 
+      <button type="button" class="btn btn-light" data-bs-toggle="tooltip" data-bs-placement="right" title="Il sistema ti mostra quanto tempo hai sprecato, in totale, sui social calcolando le tue ore giornaliere e moltiplicandole per gli anni di utilizzo da te indicati. La percentuale di vita passata sui social si basa sui dati inseriti, basandosi su un'aspettativa di vita-media di 80 anni.">
+        Come funziona?
+      </button>
+      
+      
       <div class="container-clock mt-5" id="clock"></div>
       <p id="message"></p>
     </div>
     
+    <script>
+      var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  return new bootstrap.Tooltip(tooltipTriggerEl)
+})
+    </script>
   </body>
   </html>
