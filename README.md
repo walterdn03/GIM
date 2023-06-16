@@ -34,7 +34,7 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 4
 [Orologio Analogico](Esercizio_4/1_orologio_analogico/index.html)<br>
-[Orologio Digitale](Esercizio_4/1_orologio_digitale/index.html)<br>
+[Orologio Digitale](Esercizio_4/2_orologio_digitale/index.html)<br>
 
 <h3>Calcolatore tempo sprecato</h3>
 <p>Calcola quanto tempo hai sprecato sui social nella tua vita.</p>
